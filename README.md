@@ -1,7 +1,7 @@
 # Woking 
-![original](https://github.com/user-attachments/assets/2229c88d-3a19-45c6-ad3f-c0b8be5458fc) -------> Original image
-![bright](https://github.com/user-attachments/assets/532f3248-5d15-4939-9d4d-cab5ea663c55)   -------> Brightened image
-![dark](https://github.com/user-attachments/assets/e66c2d2a-2620-46f7-bb05-8675dabc2d3e)     -------> Darkened image
+# ![original](https://github.com/user-attachments/assets/2229c88d-3a19-45c6-ad3f-c0b8be5458fc) -------> Original image
+# ![bright](https://github.com/user-attachments/assets/532f3248-5d15-4939-9d4d-cab5ea663c55)   -------> Brightened image
+# ![dark](https://github.com/user-attachments/assets/e66c2d2a-2620-46f7-bb05-8675dabc2d3e)     -------> Darkened image
 
 
 # Image Processing & Classification using OpenCV and Machine Learning
