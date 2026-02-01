@@ -6,15 +6,14 @@
 
 
 
-# 🖼️ Image Processing & Classification using OpenCV and Machine Learning
+# Image Processing & Classification using OpenCV and Machine Learning
 
 This project demonstrates basic **computer vision and machine learning** concepts using **OpenCV** and **Scikit-Learn** in Python. It focuses on image preprocessing, feature extraction, and classification using a **Logistic Regression model**.
 
 The project is designed to be **simple, beginner-friendly, and educational**, making it ideal for students, mini-projects, and practice in image processing.
 
----
 
-## 📌 Features
+## Features
 
 * Image preprocessing using **OpenCV (cv2)**
 * Numerical computations with **NumPy**
@@ -22,30 +21,28 @@ The project is designed to be **simple, beginner-friendly, and educational**, ma
 * Clean and understandable Python code
 * Suitable for academic and learning purposes
 
----
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **OpenCV**
 * **NumPy**
 * **Scikit-Learn**
 
----
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-📁 project-folder
+project-folder
 │── full.ipynb
 │── README.md
 ```
 
 ---
 
-## ⚙️ Installation Steps
+## Installation Steps
 
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
@@ -54,7 +51,7 @@ cd your-repository-name
 
 ---
 
-### 2️⃣ Create a Virtual Environment (Optional but Recommended)
+### 2. Create a Virtual Environment (Optional but Recommended)
 
 ```bash
 python -m venv venv
@@ -76,7 +73,7 @@ source venv/bin/activate
 
 ---
 
-### 3️⃣ Install Required Libraries
+### 3️. Install Required Libraries
 
 ```bash
 pip install opencv-python numpy scikit-learn
@@ -90,7 +87,7 @@ If you are using **Jupyter Notebook**, run:
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Run the Project
 
@@ -107,7 +104,6 @@ Run all the cells step by step to:
 3. Train the Logistic Regression model
 4. Perform predictions
 
----
 
 ### Sample Imports Used
 
@@ -117,37 +113,29 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 ```
 
----
 
-## 📊 Output
+## Output
 
 * Processed images using OpenCV
 * Classification results using Logistic Regression
 * Model prediction outputs
 
----
 
-## 🎯 Applications
+## Applications
 
 * Computer vision learning projects
 * Image classification mini-projects
 * Academic assignments
 * OpenCV practice and experimentation
 
----
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 Feel free to fork the repository, make changes, and submit a pull request.
 
----
 
-## 📜 License
+## License
 
 This project is intended for **educational purposes**.
 You may modify and use it freely.
-
----
-
-
