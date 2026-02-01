@@ -1,5 +1,9 @@
-#Woking 
+# Woking 
 ![dark2 jpg](https://github.com/user-attachments/assets/71f8f48a-6578-4ac0-9122-3a7091396c40)
+![dark1 jpg](https://github.com/user-attachments/assets/9b6ca597-f0f2-4ce5-b555-52c4fd4d8e3b)
+![bright1 jpg](https://github.com/user-attachments/assets/28e43eb9-9347-43e9-b502-188ebf85bfbe)
+![bright2 jpg](https://github.com/user-attachments/assets/b92ca2f7-b8e0-4c71-ace1-515602b20cfa)
+
 
 
 # 🖼️ Image Processing & Classification using OpenCV and Machine Learning
